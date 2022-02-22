@@ -1,8 +1,3 @@
-
-Edgar Loja Viri <lojed99@gmail.com>
-8:30 AM (4 minutes ago)
-to me
-
 #include <iostream>
 
 using namespace std;
